@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared_Prefrences_Prac</string>
+    <string name="welcome_message"> Welcome to Mindstix</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="main_content">This is the main content of app</string>
+
+</resources>
